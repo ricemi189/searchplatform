@@ -1,0 +1,5 @@
+{{object.name }}
+{{object.unit }}
+{{object.number}}
+{{object.location }}
+{{object.custodian }}
